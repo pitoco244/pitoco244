@@ -1,16 +1,15 @@
-## boas vinda a meu perfil 
+## boas vinda a meu perfil 😎
+
+meu nome procopio moreira
+
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organizaçao e compartilhamentodos meus projeto desenvolvidos
+
+   ### voçe pode entrar em contato comigo 📫
+
+  moreira.oliveira.fabricio@escola.pr.gov.br
 
 
-**pitoco244/pitoco244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ![](https://media.tenor.com/h1xZ8JJKmPkAAAAM/leno-brega.gif)
 
